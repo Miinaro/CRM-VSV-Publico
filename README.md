@@ -44,7 +44,7 @@ Los asesores perdían tiempo revisando clientes actualizados, descuidando a los 
 ## 🚧 Aspectos Pendientes
 
 - **Pruebas QA:** Manejo exhaustivo de errores.
-- **Mejoras en el diseño:** Aumentar la usabilidad y el atractivo visual.
+- **Mejoras en el diseño:** Aumentar la usabilidad, el atractivo visual y mejorar responsive.
 - **Revisión de la base de datos:** Aunque fue normalizada, persisten algunas dudas.
 - **Implementacion de Framework:** Puede a mejorar la legibilidad del código, facilitando su mantenimiento y comprensión.
 
