@@ -1,6 +1,5 @@
 # 📊 CRM para Gestión de Clientes y Creación de Empresas
 
-![CRM Banner](https://via.placeholder.com/1000x300) <!-- Inserta un banner o logo -->
 
 ## 📝 Descripción del Proyecto
 
